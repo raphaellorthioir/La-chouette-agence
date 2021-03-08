@@ -48,6 +48,7 @@ a:hover {
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
+    position: relative;
 }
 
 .bloc-lg {
@@ -657,7 +658,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #424242!important;
 }
 
 .container {
@@ -742,7 +743,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #424242!important;
 }
 
 .portfolio-thumb {
@@ -781,12 +782,15 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f1a480!important;
+}
+.tc-black{
+    color: #3f1907;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #424242!important;
 }
 
 .btn-atomic-tangerine:hover {
